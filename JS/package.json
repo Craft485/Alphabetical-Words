@@ -1,0 +1,13 @@
+{
+  "name": "search-for-alphabetical-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "search": "node --experimental-modules --experimental-json-modules search.mjs"
+  },
+  "keywords": [],
+  "author": "Craft485",
+  "license": "MIT"
+}
